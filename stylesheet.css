@@ -1,0 +1,16 @@
+.title {
+    color:firebrick;
+}
+
+#first-section{
+    padding-left: 200px;
+}
+
+img{
+    padding-left: 200px;
+    padding-top: 50px;
+}
+
+#Website:hover{
+    color:aqua;
+}
